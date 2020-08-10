@@ -29,6 +29,7 @@
 
 [![(tmpotter](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=tmpotter)](https://github.com/miurahr/tmpotter)
 
+[![OmegaT EPWING Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-plugin-epwing)](https://github.com/miurahr/omegat-plugin-epwing)
 
 ### GIS
 
