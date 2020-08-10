@@ -6,9 +6,15 @@
 
 
 ### Natural Language Processing
+
 [![Pykakasi](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=pykakasi)](https://github.com/miurahr/pykakasi)
 
 [![Unihandecode](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=unihandecode)](https://github.com/miurahr/unihandecode)
+
+
+### devops automation
+
+[![aqtinstall](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=aqtinstall)](https://github.com/miurahr/aqtinstall)
 
 
 ### Computer Aided Translation
@@ -21,6 +27,8 @@
 
 [![EB4j](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=eb4j)](https://github.com/eb4j/eb4j)
 
+[![(tmpotter](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=tmpotter)](https://github.com/miurahr/tmpotter)
+
 
 ### GIS
 
@@ -28,7 +36,8 @@
 
 [![FgdConv](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=fgdconv)](https://github.com/miurahr/fgdconv)
 
-### Fun staff
+
+### Raspberry Pi
 
 [![PiCast](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=picast)](https://github.com/miurahr/picast)
 
