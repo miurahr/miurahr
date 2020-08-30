@@ -11,6 +11,9 @@
 
 [![Unihandecode](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=unihandecode)](https://github.com/miurahr/unihandecode)
 
+### Compression library
+
+[![Py7zr](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=py7zr)](https://github.com/miurahr/py7zr)
 
 ### devops automation
 
