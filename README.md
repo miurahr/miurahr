@@ -58,4 +58,3 @@
 ### Others
 
 [![STAMPP translation in Japanese](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=stampp-trans-ja)](https://github.com/miurahr/stampp-trans-ja)
-[![OSSFriday](https://github-readme-stats.vercel.app/api/pin/?username=github&repo=ossfriday)](https://github.com/github/ossfriday)
