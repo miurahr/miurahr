@@ -26,6 +26,7 @@
 ### devops automation
 
 [![aqtinstall](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=aqtinstall)](https://github.com/miurahr/aqtinstall)
+[![install-linuxdeploy-action](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=install-linuxdeploy-action)](https://github.com/miurahr/install-linuxdeploy-action)
 
 
 ### Computer Aided Translation
