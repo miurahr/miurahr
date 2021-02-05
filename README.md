@@ -35,14 +35,19 @@
 
 [![OmegaT](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=omegat)](https://github.com/omegat-org/omegat)
 [![OmegaT TexTra Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-textra-plugin)](https://github.com/miurahr/omegat-textra-plugin)
+[![OmegaT EPWING Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-plugin-epwing)](https://github.com/miurahr/omegat-plugin-epwing)
+[![Omegat Sambadoc Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-sambadoc-plugin)](https://github.com/miurahr/omegat-sambadoc-plugin)
 
 [![OmegaT primer book](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-for-cat-beginners)](https://github.com/miurahr/omegat-for-cat-beginners)
-[![Omegat Sambadoc Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-sambadoc-plugin)](https://github.com/miurahr/omegat-sambadoc-plugin)
+
 [![Gradle-Omegat Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=gradle-omegat-plugin)](https://github.com/miurahr/gradle-omegat-plugin)
+
+### Java library
 
 [![DictZip](https://github-readme-stats.vercel.app/api/pin/?username=dictzip&repo=dictzip-java)](https://github.com/dictzip/dictzip-java)
 [![EB4j](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=eb4j)](https://github.com/eb4j/eb4j)
-[![OmegaT EPWING Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-plugin-epwing)](https://github.com/miurahr/omegat-plugin-epwing)
+[![northside-io](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=northside-io)](https://github.com/miurahr/northside-io)
+
 
 ### GIS
 
