@@ -46,7 +46,7 @@
 
 [![DictZip](https://github-readme-stats.vercel.app/api/pin/?username=dictzip&repo=dictzip-java)](https://github.com/dictzip/dictzip-java)
 [![EB4j](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=eb4j)](https://github.com/eb4j/eb4j)
-[![northside-io](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=northside-io)](https://github.com/miurahr/northside-io)
+[![northside-io-java](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=northside-io-java)](https://github.com/miurahr/northside-io-java)
 
 
 ### GIS
