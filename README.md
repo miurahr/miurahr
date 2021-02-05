@@ -42,11 +42,7 @@
 
 [![DictZip](https://github-readme-stats.vercel.app/api/pin/?username=dictzip&repo=dictzip-java)](https://github.com/dictzip/dictzip-java)
 [![EB4j](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=eb4j)](https://github.com/eb4j/eb4j)
-
-[![(tmpotter](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=tmpotter)](https://github.com/miurahr/tmpotter)
 [![OmegaT EPWING Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-plugin-epwing)](https://github.com/miurahr/omegat-plugin-epwing)
-
-[![Gradle plugin for OmegaT](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=gradle-omegat-plugin)](https://github.com/miurahr/gradle-omegat-plugin)
 
 ### GIS
 
