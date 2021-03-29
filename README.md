@@ -36,9 +36,11 @@
 [![OmegaT](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=omegat)](https://github.com/omegat-org/omegat)
 [![OmegaT TexTra Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-textra-plugin)](https://github.com/miurahr/omegat-textra-plugin)
 [![OmegaT EPWING Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-plugin-epwing)](https://github.com/miurahr/omegat-plugin-epwing)
+[![Omegat OnlineDictionary Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-onlinedictionary)](https://github.com/miurahr/omegat-onlinedictionary)
 [![Omegat Sambadoc Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-sambadoc-plugin)](https://github.com/miurahr/omegat-sambadoc-plugin)
 
 [![OmegaT primer book](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-for-cat-beginners)](https://github.com/miurahr/omegat-for-cat-beginners)
+[![Omegat Plugin project skeleton](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=plugin-skeleton)](https://github.com/omegat-org/plugin-skeleton)
 
 [![Gradle-Omegat Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=gradle-omegat-plugin)](https://github.com/miurahr/gradle-omegat-plugin)
 
