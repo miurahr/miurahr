@@ -65,6 +65,4 @@
 [![PiCast](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=picast)](https://github.com/miurahr/picast)
 
 
-### Others
 
-[![STAMPP translation in Japanese](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=stampp-trans-ja)](https://github.com/miurahr/stampp-trans-ja)
