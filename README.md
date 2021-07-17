@@ -16,7 +16,6 @@
 [![multi volume file](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=multivolume)](https://github.com/miurahr/multivolume)
 [![pyppmd](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=pyppmd)](https://github.com/miurahr/pyppmd)
 [![bcj-cffi](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=bcj-cffi)](https://github.com/miurahr/bcj-cffi)
-[![ppmd-cffi](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=ppmd)](https://github.com/miurahr/ppmd)
 
 
 ### OpenStreetMap
