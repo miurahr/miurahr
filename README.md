@@ -19,7 +19,6 @@
 [![PanoramaViewer](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=panoramaviewer)](https://github.com/miurahr/panoramaviewer)
 
 [![Cmake for GDAL](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=cmake4gdal)](https://github.com/miurahr/cmake4gdal)
-[![FgdConv](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=fgdconv)](https://github.com/miurahr/fgdconv)
 
 [![GDAL docs translation in Japanese](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=gdal_docs_ja)](https://github.com/miurahr/gdal_docs_ja)
 
