@@ -47,10 +47,12 @@
 [![omegat-stat](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-stat)](https://github.com/miurahr/omegat-stat)
 
 
-### Java library
+### Dictionary/Ebook access in Java
 
 [![DictZip](https://github-readme-stats.vercel.app/api/pin/?username=dictzip&repo=dictzip-java)](https://github.com/dictzip/dictzip-java)
 [![EB4j](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=eb4j)](https://github.com/eb4j/eb4j)
+[![EBviewer](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=ebviewer)](https://github.com/eb4j/ebviewer)
+[![EB4j-tools](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=eb4j-tools)](https://github.com/eb4j/eb4-toolsj)
 
 ### Natural Language Processing
 
