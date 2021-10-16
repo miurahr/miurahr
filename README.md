@@ -66,7 +66,7 @@
 [![multi volume file](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=multivolume)](https://github.com/miurahr/multivolume)
 [![pyppmd](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=pyppmd)](https://github.com/miurahr/pyppmd)
 [![ppmd-cffi](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=ppmd-cffi)](https://github.com/miurahr/ppmd-cffi)
-[![bcj-cffi](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=bcj-cffi)](https://github.com/miurahr/bcj-cffi)
+[![pybcj](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=pybcj)](https://github.com/miurahr/pybcj)
 
 ### Raspberry Pi
 
