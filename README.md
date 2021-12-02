@@ -52,6 +52,9 @@
 
 [![DictZip](https://github-readme-stats.vercel.app/api/pin/?username=dictzip&repo=dictzip-java)](https://github.com/dictzip/dictzip-java)
 [![EB4j](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=eb4j)](https://github.com/eb4j/eb4j)
+[![Furoku-data](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=furoku-data)](https://github.com/eb4j/furoku-data)
+[![MDict4j](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=mdict4j)](https://github.com/eb4j/mdict4j)
+[![DSL4j](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=dsl4j)](https://github.com/eb4j/dsl4j)
 [![EBviewer](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=ebviewer)](https://github.com/eb4j/ebviewer)
 [![EB4j-tools](https://github-readme-stats.vercel.app/api/pin/?username=eb4j&repo=eb4j-tools)](https://github.com/eb4j/eb4-toolsj)
 
