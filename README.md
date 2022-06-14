@@ -2,7 +2,9 @@
 
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
-- 🔭 I’m currently working on NTT DATA  Corporation,  and also working as representative director of OpenStreetMap Foundation Japan.
+- 🔭 I’m currently working on NTT DATA Corporation, and also working voluntery, non-profit activities as representative director of OpenStreetMap Foundation Japan.
+- I'm enthuasist for Free Software and these are my private and hobby projects which run in my spare time.
+- These projects are unrelated with NTT DATA and its interectual property.
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=miurahr&show_icons=true)
 
@@ -19,10 +21,6 @@
 
 [![Simple Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=simple-task-manager)](https://github.com/miurahr/simple-task-manager)
 [![PanoramaViewer](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=panoramaviewer)](https://github.com/miurahr/panoramaviewer)
-
-[![Cmake for GDAL](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=cmake4gdal)](https://github.com/miurahr/cmake4gdal)
-
-[![GDAL docs translation in Japanese](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=gdal_docs_ja)](https://github.com/miurahr/gdal_docs_ja)
 
 
 ### Devops automation
@@ -45,8 +43,6 @@
 [![Omegat Plugin project skeleton](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=plugin-skeleton)](https://github.com/omegat-org/plugin-skeleton)
 
 [![Gradle-Omegat Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=gradle-omegat-plugin)](https://github.com/miurahr/gradle-omegat-plugin)
-[![omegat-plugins](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=omegat-plugins)](https://github.com/omega-org/omegat-plugins)
-
 [![omegat-stat](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-stat)](https://github.com/miurahr/omegat-stat)
 
 
@@ -70,12 +66,10 @@
 [![Py7zr](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=py7zr)](https://github.com/miurahr/py7zr)
 [![multi volume file](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=multivolume)](https://github.com/miurahr/multivolume)
 [![pyppmd](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=pyppmd)](https://github.com/miurahr/pyppmd)
-[![ppmd-cffi](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=ppmd-cffi)](https://github.com/miurahr/ppmd-cffi)
 [![pybcj](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=pybcj)](https://github.com/miurahr/pybcj)
 
 ### Raspberry Pi
 
 [![PiCast](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=picast)](https://github.com/miurahr/picast)
-
 
 
