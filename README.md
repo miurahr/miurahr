@@ -38,6 +38,9 @@
 [![Omegat OnlineDictionary Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-onlinedictionary)](https://github.com/miurahr/omegat-onlinedictionary)
 [![Omegat Sambadoc Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-sambadoc-plugin)](https://github.com/miurahr/omegat-sambadoc-plugin)
 [![Omegat PDIC dictionary Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-pdic)](https://github.com/miurahr/omegat-pdic)
+[![Omegat MDict dictionary Plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-mdict)](https://github.com/miurahr/omegat-mdict)
+[![OmegaT Adaptive theme plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-adaptive-theme)](https://github.com/miurahr/omegat-adaptive-theme)
+[![OmegaT round theme plugin](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-round-theme)](https://github.com/miurahr/omegat-round-theme)
 
 [![OmegaT primer book](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-for-cat-beginners)](https://github.com/miurahr/omegat-for-cat-beginners)
 [![Omegat Plugin project skeleton](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=plugin-skeleton)](https://github.com/omegat-org/plugin-skeleton)
