@@ -12,7 +12,5 @@
 ### Popular projects
 
 [![aqtinstall](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=aqtinstall)](https://github.com/miurahr/aqtinstall)
-[![Pykakasi](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=pykakasi)](https://github.com/miurahr/pykakasi)
 [![Py7zr](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=py7zr)](https://github.com/miurahr/py7zr)
-[![Unihandecode](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=unihandecode)](https://github.com/miurahr/unihandecode)
 
