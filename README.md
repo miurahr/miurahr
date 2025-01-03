@@ -2,9 +2,9 @@
 
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
-- 🔭 I’m currently working on NTT DATA Corporation, and also working voluntery, non-profit activities as representative director of OpenStreetMap Foundation Japan.
-- I'm enthuasist for Free Software and these are my private and hobby projects which run in my spare time.
-- These projects are unrelated with NTT DATA and its interectual property.
+🔭 I’m currently working on NTT DATA Group Corporation and also participating in voluntary, non-profit activities as a representative director of OpenStreetMap Foundation Japan.
+- I'm an enthusiast for Free Software and these are my private and hobby projects which run in my spare time.
+- These projects are not related to NTT DATA or its intellectual property.
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=miurahr&show_icons=true)
 
