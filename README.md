@@ -9,13 +9,23 @@
 
 ### Popular projects
 
-### Maintainer and originator
 [![aqtinstall](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=aqtinstall)](https://github.com/miurahr/aqtinstall)
 [![Py7zr](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=py7zr)](https://github.com/miurahr/py7zr)
-[![OmegaT TexTra connector](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-textra-plugin)](https://github.com/miurahr/omegat-textra-plugin)
-[![TipOfTheDay](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=tipoftheday)](https://github.com/miurahr/tipoftheday)
 
-### Maintainer and Lead devloper
+### Projects to maintain
+
+#### OmegaT
 [![OmegaT](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=omegat)](https://github.com/omegat-org/omegat)
-[![OmegaT DeepL connector](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=deepl-connector-plugin)](https://github.com/omegat-org/deepl-connector-plugin)
+[![DeepL connector](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=deepl-connector-plugin)](https://github.com/omegat-org/deepl-connector-plugin)
+[![TexTra connector](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=omegat-textra-plugin)](https://github.com/miurahr/omegat-textra-plugin)
+[![Azure translate connector](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=azure-translate-plugin)](https://github.com/omegat-org/azure-translate-plugin)
 
+#### Libraries
+##### Python
+[![pybcj](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=pybcj)](https://github.com/miurahr/pybcj)
+[![pyppmd](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=pyppmd)](https://github.com/miurahr/pyppmd)
+[![inflate64](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=inflate64)](https://github.com/miurahr/inflate64)
+
+##### Java
+[![TipOfTheDay](https://github-readme-stats.vercel.app/api/pin/?username=miurahr&repo=tipoftheday)](https://github.com/miurahr/tipoftheday)
+[![Swing extra locales](https://github-readme-stats.vercel.app/api/pin/?username=omegat-org&repo=swing-extra-locales)](https://github.com/omegat-org/swing-extra-locales)
